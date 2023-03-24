@@ -1,3 +1,4 @@
  - https://securityxploded.com/memory-execution-of-executable.php
  - https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack
  - https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/pe-file-header-parser-in-c++
+ - https://github.com/zeroq/peanalysis
