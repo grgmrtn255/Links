@@ -1,3 +1,4 @@
  - https://securityxploded.com/memory-execution-of-executable.php
  - https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack
  - https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/
+ - https://j00ru.vexillium.org/syscalls/nt/64/
