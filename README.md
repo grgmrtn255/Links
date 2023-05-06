@@ -4,3 +4,4 @@
  - https://j00ru.vexillium.org/syscalls/nt/64/
  - https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/
  - https://specterops.io/wp-content/uploads/sites/3/2022/06/Certified_Pre-Owned.pdf
+ - https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
