@@ -7,3 +7,4 @@
  - https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/  https://hackeradam.com/x86-64-linux-syscalls/
  - https://www.gladir.com/LEXIQUE/ASM/jumpif.htm
  - https://visualgdb.com/gdbreference/commands/x
+ - https://learn.microsoft.com/en-us/windows/win32/secauthz/access-mask-format?redirectedfrom=MSDN
