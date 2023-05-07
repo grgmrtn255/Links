@@ -6,3 +6,4 @@
  - https://specterops.io/wp-content/uploads/sites/3/2022/06/Certified_Pre-Owned.pdf
  - https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/  https://hackeradam.com/x86-64-linux-syscalls/
  - https://www.gladir.com/LEXIQUE/ASM/jumpif.htm
+ - https://visualgdb.com/gdbreference/commands/x
