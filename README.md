@@ -9,3 +9,4 @@
  - https://visualgdb.com/gdbreference/commands/x
  - https://learn.microsoft.com/en-us/windows/win32/secauthz/access-mask-format?redirectedfrom=MSDN
  - https://medium.com/@youcef.s.kelouaz/writing-a-sliver-c2-powershell-stager-with-shellcode-compression-and-aes-encryption-9725c0201ea8
+ - https://m0chan.github.io/2019/07/31/How-To-Attack-Kerberos-101.html#as-rep-roasting
