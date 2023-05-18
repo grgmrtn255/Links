@@ -13,3 +13,5 @@
  - https://rioasmara.com/2020/07/04/kerberoasting-as-req-pre-auth-vs-non-pre-auth/
  - https://www.roguelynn.com/words/explain-like-im-5-kerberos/
  - https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg
+ - https://captmeelo.com/redteam/maldev/2022/02/16/libraries-for-maldev.html
+ - https://0xpat.github.io/Malware_development_part_1/
