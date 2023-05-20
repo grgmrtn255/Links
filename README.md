@@ -15,3 +15,7 @@
  - https://orange-cyberdefense.github.io/ocd-mindmaps/img/pentest_ad_dark_2023_02.svg
  - https://captmeelo.com/redteam/maldev/2022/02/16/libraries-for-maldev.html
  - https://0xpat.github.io/Malware_development_part_1/
+ - https://ajpc500.github.io/nim/Shellcode-Injection-using-Nim-and-Syscalls/
+ - https://www.doyler.net/security-not-included/executing-shellcode-with-python
+ - https://mncmb.github.io/Basic-windows-shellcode-injection-with-python/
+ - https://cocomelonc.github.io/tutorial/2021/10/27/windows-shellcoding-1.html
