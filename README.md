@@ -21,3 +21,4 @@
  - https://cocomelonc.github.io/tutorial/2021/10/27/windows-shellcoding-1.html
  - https://nytrosecurity.com/2019/06/30/writing-shellcodes-for-windows-x64/ https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/
  - https://en.wikipedia.org/wiki/Executable_and_Linkable_Format https://www.man7.org/linux/man-pages/man5/elf.5.html
+ - https://hackmd.io/@rayanlecat/SkpuOxDSn
