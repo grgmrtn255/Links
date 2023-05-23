@@ -23,3 +23,5 @@
  - https://en.wikipedia.org/wiki/Executable_and_Linkable_Format https://www.man7.org/linux/man-pages/man5/elf.5.html
  - https://hackmd.io/@rayanlecat/SkpuOxDSn
  - https://www.cert.ssi.gouv.fr/uploads/guide-ad.html
+ - https://ad-lab.gitbook.io/building-a-windows-ad-lab/lab-setup/building-the-lab/creating-bank.local/creating-amsterdam.bank.local/creating-fileserver-file01
+ - https://www.thehacker.recipes/
