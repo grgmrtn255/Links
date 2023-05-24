@@ -26,3 +26,4 @@
  - https://ad-lab.gitbook.io/building-a-windows-ad-lab/lab-setup/building-the-lab/creating-bank.local/creating-amsterdam.bank.local/creating-fileserver-file01
  - https://www.thehacker.recipes/
  - https://github.com/WazeHell/vulnerable-AD/blob/master/vulnad.ps1
+ - https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
