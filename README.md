@@ -28,3 +28,4 @@
  - https://github.com/WazeHell/vulnerable-AD/blob/master/vulnad.ps1
  - https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
  - https://posts.specterops.io/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy-506c25a7c167
+ - https://xsleaks.dev/
