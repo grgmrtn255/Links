@@ -31,3 +31,4 @@
  - https://xsleaks.dev/
  - https://tracker.viriback.com/
  - https://www.semperis.com/blog/golden-gmsa-attack/
+ - https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is-not-supported.html
