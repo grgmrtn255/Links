@@ -36,3 +36,5 @@
  - https://inf0sec.fr/
  - https://lolbas-project.github.io/#
  - https://gtfobins.github.io/
+ - https://atomicredteam.io/command-and-control/T1105/
+ - https://redcanary.com/blog/
