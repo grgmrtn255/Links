@@ -35,3 +35,4 @@
  - https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is-not-supported.html
  - https://inf0sec.fr/
  - https://lolbas-project.github.io/#
+ - https://gtfobins.github.io/
