@@ -39,3 +39,4 @@
  - https://atomicredteam.io/command-and-control/T1105/
  - https://redcanary.com/blog/
  - https://unprotect.it/technique/dll-unhooking/
+ - https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/
