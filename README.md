@@ -42,3 +42,4 @@
  - https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/
  - https://nuts7.fr/zerologon/
  - https://bushido-sec.com/index.php/2023/06/25/the-art-of-fuzzing-windows-binaries/
+ - https://beta.hackndo.com/
