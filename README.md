@@ -40,3 +40,4 @@
  - https://redcanary.com/blog/
  - https://unprotect.it/technique/dll-unhooking/
  - https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/
+ - https://nuts7.fr/zerologon/
