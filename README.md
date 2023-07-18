@@ -43,3 +43,4 @@
  - https://nuts7.fr/zerologon/
  - https://bushido-sec.com/index.php/2023/06/25/the-art-of-fuzzing-windows-binaries/
  - https://beta.hackndo.com/
+ - https://0xinfection.github.io/posts/wmi-recon-enum/
