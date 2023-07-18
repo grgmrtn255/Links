@@ -44,3 +44,5 @@
  - https://bushido-sec.com/index.php/2023/06/25/the-art-of-fuzzing-windows-binaries/
  - https://beta.hackndo.com/
  - https://0xinfection.github.io/posts/wmi-recon-enum/
+ - https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf?%3F%3F%3F%3F%3Futm_source=content
+ - https://dmcxblue.gitbook.io/red-team-notes/execution/windows-management-instrumentation-wmi
