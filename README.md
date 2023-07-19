@@ -47,3 +47,4 @@
  - https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf?%3F%3F%3F%3F%3Futm_source=content
  - https://dmcxblue.gitbook.io/red-team-notes/execution/windows-management-instrumentation-wmi
  - https://start.me/p/wMrA5z/cyber-threat-intelligence
+ - https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
