@@ -48,3 +48,4 @@
  - https://dmcxblue.gitbook.io/red-team-notes/execution/windows-management-instrumentation-wmi
  - https://start.me/p/wMrA5z/cyber-threat-intelligence
  - https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
+ - https://www.trustedsec.com/blog/hacking-your-cloud-tokens-edition-2-0/
