@@ -50,3 +50,4 @@
  - https://portswigger.net/research/exploiting-xss-in-hidden-inputs-and-meta-tags
  - https://www.trustedsec.com/blog/hacking-your-cloud-tokens-edition-2-0/
  - https://deobfuscate.relative.im/
+ - https://www.cisa.gov/sites/default/files/2023-07/aa23-201a_csa_threat_actors_exploiting_citrix-cve-2023-3519_to_implant_webshells.pdf
