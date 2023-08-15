@@ -52,3 +52,5 @@
  - https://deobfuscate.relative.im/
  - https://www.cisa.gov/sites/default/files/2023-07/aa23-201a_csa_threat_actors_exploiting_citrix-cve-2023-3519_to_implant_webshells.pdf
  - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
+ - https://beginninghacking.net/2022/07/29/letsdefend-pdf-analysis/
+ - https://videos.didierstevens.com/2022/10/14/png-mimikatz-exe/
