@@ -54,3 +54,4 @@
  - https://research.aurainfosec.io/pentest/hook-line-and-phishlet/
  - https://beginninghacking.net/2022/07/29/letsdefend-pdf-analysis/
  - https://videos.didierstevens.com/2022/10/14/png-mimikatz-exe/
+ - https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Ron%20Ben-Yizhak%20-%20NoFilter%20Abusing%20Windows%20Filtering%20Platform%20for%20privilege%20escalation.pdf
