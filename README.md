@@ -56,3 +56,8 @@
  - https://videos.didierstevens.com/2022/10/14/png-mimikatz-exe/
  - https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Ron%20Ben-Yizhak%20-%20NoFilter%20Abusing%20Windows%20Filtering%20Platform%20for%20privilege%20escalation.pdf
  - https://www.synacktiv.com/publications/old-bug-shallow-bug-exploiting-ubuntu-at-pwn2own-vancouver-2023
+ - https://www.crowdstrike.com/blog/falcon-complete-zero-day-exploit-cve-2023-36874/
+ - https://mystic0x1.github.io/posts/methods-to-backdoor-an-aws-account/
+ - https://www.ired.team/offensive-security/persistence/dll-proxying-for-persistence
+ - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking
+ - https://itm4n.github.io/dll-proxying/
