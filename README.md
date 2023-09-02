@@ -64,3 +64,4 @@
  - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
  - https://mcsi-library.readthedocs.io/articles/2022/10/powershell-shellcode-part-2.html
  - https://san3ncrypt3d.com/2021/08/13/VBAShell/
+ - https://devblogs.microsoft.com/scripting/learn-how-it-pros-can-use-the-powershell-ast/
