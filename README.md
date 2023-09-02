@@ -66,3 +66,4 @@
  - https://san3ncrypt3d.com/2021/08/13/VBAShell/
  - https://devblogs.microsoft.com/scripting/learn-how-it-pros-can-use-the-powershell-ast/
  - https://pen300.hide01.ir/index.html#video-path=media/video/CSCEO_06_04.mp4&time-offset=91
+ - https://themayor.notion.site/53512dc072c241589fc45c577ccea2ee?v=7b908e7e76a9416f98f40d9d3843d3cb&p=c5402d9f520a4cd68d4f903019e11f26
