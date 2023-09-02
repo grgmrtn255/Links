@@ -65,3 +65,4 @@
  - https://mcsi-library.readthedocs.io/articles/2022/10/powershell-shellcode-part-2.html
  - https://san3ncrypt3d.com/2021/08/13/VBAShell/
  - https://devblogs.microsoft.com/scripting/learn-how-it-pros-can-use-the-powershell-ast/
+ - https://pen300.hide01.ir/index.html#video-path=media/video/CSCEO_06_04.mp4&time-offset=91
