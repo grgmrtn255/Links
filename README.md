@@ -62,3 +62,4 @@
  - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking
  - https://itm4n.github.io/dll-proxying/
  - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
+ - https://mcsi-library.readthedocs.io/articles/2022/10/powershell-shellcode-part-2.html
