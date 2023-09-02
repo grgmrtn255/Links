@@ -61,3 +61,4 @@
  - https://www.ired.team/offensive-security/persistence/dll-proxying-for-persistence
  - https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/dll-hijacking
  - https://itm4n.github.io/dll-proxying/
+ - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
