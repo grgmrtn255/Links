@@ -63,3 +63,4 @@
  - https://itm4n.github.io/dll-proxying/
  - https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
  - https://mcsi-library.readthedocs.io/articles/2022/10/powershell-shellcode-part-2.html
+ - https://san3ncrypt3d.com/2021/08/13/VBAShell/
