@@ -71,3 +71,4 @@
  - https://www.youtube.com/watch?v=OuL-7GPhhAQ
  - https://www.reddit.com/r/rfelectronics/comments/i4tbu2/an_rf_book_list/?rdt=47958
  - https://infocon.org/skills/Ham%20Radio%20Crash%20Course%20-%20Radio/
+ - https://biot.com/capstats/bpf.html scapy filter syntax
