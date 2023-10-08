@@ -74,3 +74,6 @@
  - https://biot.com/capstats/bpf.html scapy filter syntax
  - https://web.archive.org/web/20230403234851/https://pre.empt.dev/posts/maelstrom-the-implant/
  - https://www.onworks.net/os-distributions/debian-based/free-kali-linux-online
+ - https://unix.stackexchange.com/questions/517524/install-tails-with-persistent-storage-on-virtualbox
+ - https://search.censys.io/
+ - https://www.shodan.io/
