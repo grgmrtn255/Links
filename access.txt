@@ -1,0 +1,2 @@
+ssh root@segfault.net
+segfault
