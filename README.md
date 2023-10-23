@@ -79,3 +79,5 @@
  - https://www.shodan.io/
  - https://exposingtheinvisible.org/en/guides/vpn-over-tor/
  - https://web-check.xyz/
+ - https://book.blueteamguides.com/
+ - https://montysecurity.medium.com/analyzing-a-multi-stage-lnk-dropper-d9f0f97fcb02
