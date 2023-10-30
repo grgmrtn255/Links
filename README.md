@@ -85,3 +85,4 @@
  - https://www.protect.airbus.com/blog/active-directory-a-canary-under-your-hat/
  - https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf
  - https://exploit.in/
+ - https://thehackernews.com/
