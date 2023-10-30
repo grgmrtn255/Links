@@ -86,3 +86,4 @@
  - https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf
  - https://exploit.in/
  - https://thehackernews.com/
+ - https://specterops.github.io/TierZeroTable/ https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf
