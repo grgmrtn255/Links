@@ -82,3 +82,4 @@
  - https://book.blueteamguides.com/
  - https://montysecurity.medium.com/analyzing-a-multi-stage-lnk-dropper-d9f0f97fcb02
  - https://www.thalesgroup.com/fr/group/journaliste/press-release/cyberthreat-handbook-thales-et-verint-presentent-leur-whos-who-des
+ - https://www.protect.airbus.com/blog/active-directory-a-canary-under-your-hat/
