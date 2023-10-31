@@ -91,3 +91,4 @@
  - https://thedfirreport.com/
  - https://mitre-attack.github.io/attack-navigator/
  - https://caldera.mitre.org/
+ - https://www.youtube.com/watch?v=78RIsFqo9pM
