@@ -92,3 +92,4 @@
  - https://mitre-attack.github.io/attack-navigator/
  - https://caldera.mitre.org/
  - https://www.youtube.com/watch?v=78RIsFqo9pM
+ - https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
