@@ -94,3 +94,4 @@
  - https://www.youtube.com/watch?v=78RIsFqo9pM
  - https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
  - https://docs.docker.com/network/packet-filtering-firewalls/ https://docs.docker.com/network/
+ - https://www.microsoft.com/fr-fr/evalcenter/download-windows-server-2022
