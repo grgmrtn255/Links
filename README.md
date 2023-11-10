@@ -97,3 +97,6 @@
  - https://www.microsoft.com/fr-fr/evalcenter/download-windows-server-2022
  - https://www.packetlevel.ch/html/scapy/scapyipv6.html
  - https://www.kernel.org/doc/html/latest/filesystems/proc.html
+ - https://www.forensicxlab.com/posts/hibernation/
+ - https://invictus-ir.medium.com/a-defenders-guide-to-graphrunner-part-i-e01dcc6b6fa7
+ - https://luemmelsec.github.io/Relaying-101/
