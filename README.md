@@ -104,3 +104,4 @@
  - https://hybrid-analysis.com/
  - https://www.virustotal.com/
  - https://www.filescan.io/scan
+ - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
