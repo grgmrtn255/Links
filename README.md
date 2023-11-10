@@ -100,3 +100,7 @@
  - https://www.forensicxlab.com/posts/hibernation/
  - https://invictus-ir.medium.com/a-defenders-guide-to-graphrunner-part-i-e01dcc6b6fa7
  - https://luemmelsec.github.io/Relaying-101/
+ - https://tria.ge/
+ - https://hybrid-analysis.com/
+ - https://www.virustotal.com/
+ - https://www.filescan.io/scan
