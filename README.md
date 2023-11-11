@@ -107,3 +107,4 @@
  - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
  - https://0xrick.github.io/
  - https://wikileaks.org/vault7/
+ - https://unprotect.it/
