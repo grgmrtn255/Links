@@ -104,6 +104,7 @@
  - https://hybrid-analysis.com/
  - https://www.virustotal.com/
  - https://www.filescan.io/scan
+ - https://www.joesandbox.com/
  - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
  - https://0xrick.github.io/
  - https://wikileaks.org/vault7/
