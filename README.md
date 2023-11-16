@@ -86,6 +86,9 @@
  - https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf
  - https://exploit.in/
  - https://thehackernews.com/
+ - https://www.rapid7.com/blog/series/emergent-threats/emergent-threats/
+ - https://attackerkb.com/activity-feed
+ - https://attackerkb.com/topics
  - https://specterops.github.io/TierZeroTable/ https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf
  - https://malpedia.caad.fkie.fraunhofer.de/
  - https://thedfirreport.com/
@@ -107,5 +110,6 @@
  - https://www.joesandbox.com/
  - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
  - https://0xrick.github.io/
+ - https://www.exploit-db.com/
  - https://wikileaks.org/vault7/
  - https://unprotect.it/
