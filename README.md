@@ -124,3 +124,4 @@
  - https://gbhackers.com/category/threatsattacks/
  - https://ntlm.info/
  - https://www.tomtombinary.xyz/articles/aliens-versus-predators-2/
+ - https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer
