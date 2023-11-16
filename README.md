@@ -113,3 +113,12 @@
  - https://www.exploit-db.com/
  - https://wikileaks.org/vault7/
  - https://unprotect.it/
+ - https://otx.alienvault.com/
+ - https://bazaar.abuse.ch/
+ - https://www.malshare.com/
+ - https://soc6s.fr/blog-cti/
+ - https://cybernews.com/news/
+ - https://www.darkreading.com/attacks-breaches https://www.darkreading.com/threat-intelligence https://www.darkreading.com/vulnerabilities-threats
+ - https://connect.ed-diamond.com/misc
+ - https://gbhackers.com/category/vulnerability-android-2/
+ - https://gbhackers.com/category/threatsattacks/
