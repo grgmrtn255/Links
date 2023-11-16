@@ -123,3 +123,4 @@
  - https://gbhackers.com/category/vulnerability-android-2/
  - https://gbhackers.com/category/threatsattacks/
  - https://ntlm.info/
+ - https://www.tomtombinary.xyz/articles/aliens-versus-predators-2/
