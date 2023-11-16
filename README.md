@@ -122,3 +122,4 @@
  - https://connect.ed-diamond.com/misc
  - https://gbhackers.com/category/vulnerability-android-2/
  - https://gbhackers.com/category/threatsattacks/
+ - https://ntlm.info/
