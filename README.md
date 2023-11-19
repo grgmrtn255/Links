@@ -125,3 +125,4 @@
  - https://ntlm.info/
  - https://www.tomtombinary.xyz/articles/aliens-versus-predators-2/
  - https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer
+ - https://davidebove.com/blog/2021/03/27/how-to-dump-process-memory-in-linux/ linux memory dump
