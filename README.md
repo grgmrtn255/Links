@@ -128,3 +128,4 @@
  - https://davidebove.com/blog/2021/03/27/how-to-dump-process-memory-in-linux/ linux memory dump
  - https://andreacristaldi.github.io/APTmap/
  - https://icanhaspii.github.io/
+ - https://www.youtube.com/watch?v=Kqwa-9Tanzw AWS forensic DFIR
