@@ -134,3 +134,4 @@
  - https://www.acceis.fr/attaque-par-retro-passage-ldap/
  - https://maldevacademy.com/
  - https://publication.osintambition.org/8-basic-methods-of-automating-the-collection-of-information-from-company-websites-9757f3cd1e06
+ - https://www.jamf.com/blog/punycode-attacks/#:~:text=By%20default%2C%20many%20web%20browsers%20use%20the%20xn--,a%20measure%20to%20defend%20against%20Homograph%20phishing%20attacks
