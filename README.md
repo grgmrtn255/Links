@@ -138,3 +138,4 @@
  - https://hackropole.fr/fr/challenges/web/fcsc2020-web-babel-web/
  - https://darkcoding.net/software/a-very-small-rust-binary-indeed/
  - https://whoamianony.top/posts/ad-cs-new-ways-to-abuse-manageca-permissions/
+ - https://otterhacker.github.io/
