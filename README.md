@@ -139,3 +139,7 @@
  - https://darkcoding.net/software/a-very-small-rust-binary-indeed/
  - https://whoamianony.top/posts/ad-cs-new-ways-to-abuse-manageca-permissions/
  - https://otterhacker.github.io/
+ - https://redlabs.enterprisesecurity.io/
+ - https://pwnedlabs.io/
+ - https://azure.enterprisesecurity.io
+ - https://www.youtube.com/watch?v=SqfDFIQ8kkk
