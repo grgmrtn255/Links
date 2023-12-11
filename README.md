@@ -144,3 +144,4 @@
  - https://azure.enterprisesecurity.io
  - https://www.youtube.com/watch?v=SqfDFIQ8kkk
  - https://elixir.bootlin.com/linux/v5.15.137/A/ident/inet_addr
+ - https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp?filter=123
