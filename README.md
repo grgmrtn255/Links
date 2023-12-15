@@ -146,3 +146,4 @@
  - https://elixir.bootlin.com/linux/v5.15.137/A/ident/inet_addr
  - https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp?filter=123
  - https://youtube.com/watch?v=QskRb95sQNI
+ - https://www.rayanle.cat/umbrella-htb-uni-ctf-2023/
