@@ -150,3 +150,4 @@
  - https://www.rayanle.cat/umbrella-htb-uni-ctf-2023/
  - https://0xfa7e.github.io/post/cpts-vs-oscp/
  - https://www.outflank.nl/free-training-course-microsoft-office-offensive-tradecraft-for-red-teamers/?source=oftw
+ - https://archive.is/2019.01.16-232458/https://x89k.cf/infosec/2018/11/03/oscpsurvivalguide.html
