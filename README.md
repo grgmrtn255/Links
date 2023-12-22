@@ -149,3 +149,4 @@
  - https://youtube.com/watch?v=QskRb95sQNI
  - https://www.rayanle.cat/umbrella-htb-uni-ctf-2023/
  - https://0xfa7e.github.io/post/cpts-vs-oscp/
+ - https://www.outflank.nl/free-training-course-microsoft-office-offensive-tradecraft-for-red-teamers/?source=oftw
