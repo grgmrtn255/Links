@@ -152,3 +152,4 @@
  - https://www.outflank.nl/free-training-course-microsoft-office-offensive-tradecraft-for-red-teamers/?source=oftw
  - https://archive.is/2019.01.16-232458/https://x89k.cf/infosec/2018/11/03/oscpsurvivalguide.html
  - https://www.synacktiv.com/publications/writing-a-decent-win32-keylogger-13
+ - https://ss64.com/bash/syntax-keyboard.html
