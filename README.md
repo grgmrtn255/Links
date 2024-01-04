@@ -155,3 +155,8 @@
  - https://ss64.com/bash/syntax-keyboard.html
  - https://hunter.how/
  - https://rbaskets.in/web
+ - https://r3kapig-not1on.notion.site/2023-4828bf0bb74e45cabce2288370402dc0
+ - https://swisskyrepo.github.io/InternalAllTheThings/
+ - https://secret.club/2020/04/23/directory-deletion-shell.html
+ - https://www.synacktiv.com/en/publications/kubernetes-namespaces-isolation-what-it-is-what-it-isnt-life-universe-and-everything
+ - https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
