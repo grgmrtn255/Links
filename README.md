@@ -160,3 +160,4 @@
  - https://secret.club/2020/04/23/directory-deletion-shell.html
  - https://www.synacktiv.com/en/publications/kubernetes-namespaces-isolation-what-it-is-what-it-isnt-life-universe-and-everything
  - https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
+ - https://malwaretech.com/2023/12/an-introduction-to-bypassing-user-mode-edr-hooks.html
