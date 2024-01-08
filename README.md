@@ -161,3 +161,4 @@
  - https://www.synacktiv.com/en/publications/kubernetes-namespaces-isolation-what-it-is-what-it-isnt-life-universe-and-everything
  - https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
  - https://malwaretech.com/2023/12/an-introduction-to-bypassing-user-mode-edr-hooks.html
+ - https://drive.google.com/drive/u/0/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
