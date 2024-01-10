@@ -163,3 +163,4 @@
  - https://malwaretech.com/2023/12/an-introduction-to-bypassing-user-mode-edr-hooks.html
  - https://drive.google.com/drive/u/0/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
  - https://blog.redteam-pentesting.de/2024/bitwarden-heist/
+ - https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDAC-policy-for-BYOVD-Kernel-mode-only-protection
