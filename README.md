@@ -164,3 +164,7 @@
  - https://drive.google.com/drive/u/0/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
  - https://blog.redteam-pentesting.de/2024/bitwarden-heist/
  - https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDAC-policy-for-BYOVD-Kernel-mode-only-protection
+ - https://www.vergiliusproject.com/kernels/x64/Windows%2011/23H2%20(2023%20Update)
+ - https://ntdoc.m417z.com/
+ - http://undocumented.ntinternals.net/
+ - http://terminus.rewolf.pl/terminus/
