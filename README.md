@@ -168,3 +168,4 @@
  - https://ntdoc.m417z.com/
  - http://undocumented.ntinternals.net/
  - http://terminus.rewolf.pl/terminus/
+ - http://ropgadget.com/posts/abusing_win_functions.html
