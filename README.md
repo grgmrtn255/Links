@@ -170,3 +170,4 @@
  - http://terminus.rewolf.pl/terminus/
  - http://ropgadget.com/posts/abusing_win_functions.html
  - https://www.rapid7.com/blog/post/2019/01/03/santas-elfs-running-linux-executables-without-execve/
+ - https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/
