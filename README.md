@@ -172,3 +172,4 @@
  - https://www.rapid7.com/blog/post/2019/01/03/santas-elfs-running-linux-executables-without-execve/
  - https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/
  - https://itm4n.github.io/insomnihack-2024-cache-cache/
+ - https://www.hudsonrock.com/search
