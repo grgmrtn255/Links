@@ -180,3 +180,4 @@
  - https://epieos.com/
  - https://castrickclues.com/
  - https://app.ens.domains/
+ - https://dns.decentraweb.org/sld
