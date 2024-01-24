@@ -178,3 +178,4 @@
  - https://crt.sh/
  - https://dnsdumpster.com/
  - https://epieos.com/
+ - https://castrickclues.com/
