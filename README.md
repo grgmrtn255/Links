@@ -174,3 +174,6 @@
  - https://itm4n.github.io/insomnihack-2024-cache-cache/
  - https://www.hudsonrock.com/search
  - https://www.offensiveosint.io/
+ - https://www.whoxy.com/
+ - https://crt.sh/
+ - https://dnsdumpster.com/
