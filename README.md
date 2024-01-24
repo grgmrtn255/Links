@@ -179,3 +179,4 @@
  - https://dnsdumpster.com/
  - https://epieos.com/
  - https://castrickclues.com/
+ - https://app.ens.domains/
