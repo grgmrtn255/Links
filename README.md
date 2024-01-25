@@ -188,3 +188,5 @@
  - https://intelx.io/
  - https://wigle.net/
  - https://publicwww.com/
+ - https://exploit.in/
+ - https://xss.is/
