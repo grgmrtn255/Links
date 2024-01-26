@@ -190,3 +190,4 @@
  - https://publicwww.com/
  - https://exploit.in/
  - https://xss.is/
+ - https://www.hackcyom.com/2024/01/from-zero-to-hero-ad-adventure-1/
