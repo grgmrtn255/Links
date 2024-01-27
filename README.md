@@ -194,4 +194,7 @@
  - https://osintframework.com/
  - https://map.malfrats.industries/
  - https://start.me/
+     - https://start.me/p/DPYPMz/the-ultimate-osint-collection
+     - https://start.me/p/7kLY9R/osint-chine
+     - https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
  - https://inteltechniques.com/
