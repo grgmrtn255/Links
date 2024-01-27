@@ -191,3 +191,6 @@
  - https://exploit.in/
  - https://xss.is/
  - https://www.hackcyom.com/2024/01/from-zero-to-hero-ad-adventure-1/
+ - https://osintframework.com/
+ - https://map.malfrats.industries/
+ - https://start.me/
