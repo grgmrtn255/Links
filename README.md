@@ -198,3 +198,5 @@
      - https://start.me/p/7kLY9R/osint-chine
      - https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
  - https://inteltechniques.com/
+ - https://www.pappers.fr/recherche
+ - https://www.info-clipper.com/
