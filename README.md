@@ -208,3 +208,5 @@
  - https://fmhy.xyz/
  - https://app.osintracker.com/investigations
  - https://app.apollo.io/
+ - https://www.falstad.com/circuit/circuitjs.html
+ - https://everycircuit.com/
