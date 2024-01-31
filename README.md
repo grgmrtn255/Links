@@ -211,3 +211,4 @@
  - https://www.falstad.com/circuit/circuitjs.html
  - https://everycircuit.com/
  - https://illicit.services/
+ - https://www.blackhillsinfosec.com/wp-content/uploads/2021/03/SLIDES_OPSECFundamentalsRemoteRedTeams-1.pdf
