@@ -212,3 +212,4 @@
  - https://everycircuit.com/
  - https://illicit.services/
  - https://www.blackhillsinfosec.com/wp-content/uploads/2021/03/SLIDES_OPSECFundamentalsRemoteRedTeams-1.pdf
+ - https://sensepost.com/blog/2024/sensecon-23-from-windows-drivers-to-an-almost-fully-working-edr/
