@@ -216,3 +216,4 @@
  - https://trustedsec.com/blog/js-tap-weaponizing-javascript-for-red-teams
  - https://blog.malicious.group/automating-c2-infrastructure-with-terraform-nebula-caddy-and-cobalt-strike/
  - https://cube0x0.github.io/Pocing-Beyond-DA/
+ - https://www.netspi.com/blog/technical/network-penetration-testing/exploiting-adidns/
