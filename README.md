@@ -218,3 +218,4 @@
  - https://cube0x0.github.io/Pocing-Beyond-DA/
  - https://www.netspi.com/blog/technical/network-penetration-testing/exploiting-adidns/
  - https://janbakker.tech/evilginx-resources-for-microsoft-365/
+ - https://msrc.microsoft.com/update-guide/
