@@ -220,3 +220,5 @@
  - https://janbakker.tech/evilginx-resources-for-microsoft-365/
  - https://msrc.microsoft.com/update-guide/
  - https://0xswitch.fr/
+ - https://zweilosec.gitbook.io/
+ - https://0xdf.gitlab.io/
