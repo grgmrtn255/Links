@@ -219,3 +219,4 @@
  - https://www.netspi.com/blog/technical/network-penetration-testing/exploiting-adidns/
  - https://janbakker.tech/evilginx-resources-for-microsoft-365/
  - https://msrc.microsoft.com/update-guide/
+ - https://0xswitch.fr/
