@@ -161,6 +161,7 @@
  - https://www.synacktiv.com/en/publications/kubernetes-namespaces-isolation-what-it-is-what-it-isnt-life-universe-and-everything
  - https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/
  - https://malwaretech.com/2023/12/an-introduction-to-bypassing-user-mode-edr-hooks.html
+ - https://malwaretech.com/2024/02/bypassing-edrs-with-edr-preload.html
  - https://drive.google.com/drive/u/0/folders/1if6MCeBCj8sxWwJIKhtgwU0GBuBW8uLx?s=09
  - https://blog.redteam-pentesting.de/2024/bitwarden-heist/
  - https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDAC-policy-for-BYOVD-Kernel-mode-only-protection
