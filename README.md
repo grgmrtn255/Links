@@ -224,3 +224,4 @@
  - https://0xdf.gitlab.io/
  - https://axelp.io/MouseTrap
  - https://www.freecodecamp.org/news/rtlo-in-hacking/
+ - https://redops.at/en/blog/exploring-hells-gate
