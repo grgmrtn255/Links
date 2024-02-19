@@ -223,3 +223,4 @@
  - https://zweilosec.gitbook.io/
  - https://0xdf.gitlab.io/
  - https://axelp.io/MouseTrap
+ - https://www.freecodecamp.org/news/rtlo-in-hacking/
