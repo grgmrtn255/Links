@@ -228,3 +228,4 @@
  - https://redops.at/en/blog/exploring-hells-gate
  - https://redops.at/en/blog/edr-analysis-leveraging-fake-dlls-guard-pages-and-veh-for-enhanced-detection
  - https://chrollo-dll.gitbook.io/chrollo/security-blogs/cloud-pentesting/aws/cloudgoat-vulnerable-lambda
+ - https://medium.com/@sam.rothlisberger/embed-a-malicious-executable-in-a-normal-pdf-or-exe-81ee5339707e
