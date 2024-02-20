@@ -229,3 +229,4 @@
  - https://redops.at/en/blog/edr-analysis-leveraging-fake-dlls-guard-pages-and-veh-for-enhanced-detection
  - https://chrollo-dll.gitbook.io/chrollo/security-blogs/cloud-pentesting/aws/cloudgoat-vulnerable-lambda
  - https://medium.com/@sam.rothlisberger/embed-a-malicious-executable-in-a-normal-pdf-or-exe-81ee5339707e
+ - https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/
