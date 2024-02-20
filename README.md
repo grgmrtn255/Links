@@ -227,3 +227,4 @@
  - https://www.freecodecamp.org/news/rtlo-in-hacking/
  - https://redops.at/en/blog/exploring-hells-gate
  - https://redops.at/en/blog/edr-analysis-leveraging-fake-dlls-guard-pages-and-veh-for-enhanced-detection
+ - https://chrollo-dll.gitbook.io/chrollo/security-blogs/cloud-pentesting/aws/cloudgoat-vulnerable-lambda
