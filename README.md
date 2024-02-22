@@ -230,3 +230,7 @@
  - https://chrollo-dll.gitbook.io/chrollo/security-blogs/cloud-pentesting/aws/cloudgoat-vulnerable-lambda
  - https://medium.com/@sam.rothlisberger/embed-a-malicious-executable-in-a-normal-pdf-or-exe-81ee5339707e
  - https://whiteknightlabs.com/2023/05/23/unleashing-the-unseen-harnessing-the-power-of-cobalt-strike-profiles-for-edr-evasion/
+ - https://pauljerimy.com/security-certification-roadmap/
+ - https://riccardoancarani.github.io/
+ - https://her0ness.github.io/
+ - https://posts.specterops.io/adcs-esc13-abuse-technique-fda4272fbd53
