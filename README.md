@@ -236,3 +236,4 @@
  - https://posts.specterops.io/adcs-esc13-abuse-technique-fda4272fbd53
  - https://medium.com/@lsecqt/weaponizing-dll-hijacking-via-dll-proxying-3983a8249de0
  - https://matheuzsecurity.github.io/hacking/linux-threat-hunting-persistence/
+ - https://godbolt.org/
