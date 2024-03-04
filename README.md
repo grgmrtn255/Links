@@ -238,3 +238,4 @@
  - https://matheuzsecurity.github.io/hacking/linux-threat-hunting-persistence/
  - https://godbolt.org/
  - https://decoder.cloud/2024/02/26/hello-im-your-adcs-server-and-i-want-to-authenticate-against-you/
+ - https://www.outflank.nl/blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/
