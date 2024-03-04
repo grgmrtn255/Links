@@ -239,3 +239,4 @@
  - https://godbolt.org/
  - https://decoder.cloud/2024/02/26/hello-im-your-adcs-server-and-i-want-to-authenticate-against-you/
  - https://www.outflank.nl/blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/
+ - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/
