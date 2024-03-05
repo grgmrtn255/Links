@@ -241,3 +241,4 @@
  - https://www.outflank.nl/blog/2019/05/05/evil-clippy-ms-office-maldoc-assistant/
  - https://www.mdsec.co.uk/2023/03/exploiting-cve-2023-23397-microsoft-outlook-elevation-of-privilege-vulnerability/
  - https://medium.com/@airlockdigital/make-phishing-great-again-vsto-office-files-are-the-new-macro-nightmare-e09fcadef010
+ - https://sabotagesec.com/the-lazy-guide-to-reverse-rpc/
