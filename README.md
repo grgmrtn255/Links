@@ -243,3 +243,4 @@
  - https://medium.com/@airlockdigital/make-phishing-great-again-vsto-office-files-are-the-new-macro-nightmare-e09fcadef010
  - https://sabotagesec.com/the-lazy-guide-to-reverse-rpc/
  - https://itm4n.github.io/fuzzing-windows-rpc-rpcview/
+ - https://forensics.wiki/
