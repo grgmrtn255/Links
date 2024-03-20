@@ -244,3 +244,4 @@
  - https://sabotagesec.com/the-lazy-guide-to-reverse-rpc/
  - https://itm4n.github.io/fuzzing-windows-rpc-rpcview/
  - https://forensics.wiki/
+ - https://docs.google.com/document/d/1KByZzrdwQhrXGPPCf9tUzERZyRzg0xOpGbWoDURZxTI/edit
