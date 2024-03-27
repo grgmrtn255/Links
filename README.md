@@ -245,3 +245,6 @@
  - https://itm4n.github.io/fuzzing-windows-rpc-rpcview/
  - https://forensics.wiki/
  - https://docs.google.com/document/d/1KByZzrdwQhrXGPPCf9tUzERZyRzg0xOpGbWoDURZxTI/edit
+ - https://www.dre.vanderbilt.edu/~schmidt/android/android-4.0/dalvik/docs/dex-format.html
+ - https://source.android.com/docs/core/runtime/dex-format?hl=fr
+ - https://torrentcome.github.io/def/dex/
