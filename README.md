@@ -248,3 +248,5 @@
  - https://www.dre.vanderbilt.edu/~schmidt/android/android-4.0/dalvik/docs/dex-format.html
  - https://source.android.com/docs/core/runtime/dex-format?hl=fr
  - https://torrentcome.github.io/def/dex/
+ - https://www.guitmz.com/page/4/
+ - https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
