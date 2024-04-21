@@ -253,3 +253,4 @@
  - https://reverse.zip/categories/introduction-au-reverse/
  - https://graphviz.org/
  - https://blu3eye.gitbook.io/malware-insight
+ - https://medium.com/tenable-techblog/uac-bypass-by-mocking-trusted-directories-24a96675f6e
