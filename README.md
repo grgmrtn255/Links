@@ -256,3 +256,4 @@
  - https://medium.com/tenable-techblog/uac-bypass-by-mocking-trusted-directories-24a96675f6e
  - https://blog.lexfo.fr/lockbit-malware.html
  - https://fy.blackhats.net.au/
+ - https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
