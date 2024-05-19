@@ -258,3 +258,4 @@
  - https://fy.blackhats.net.au/
  - https://blog.malicious.group/writing-your-own-rdi-srdi-loader-using-c-and-asm/
  - http://www.cse.yorku.ca/~oz/hash.html
+ - https://noman-minhas.surge.sh/malware_research/rust_remote_shellcode_injection
