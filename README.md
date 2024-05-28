@@ -261,3 +261,4 @@
  - https://noman-minhas.surge.sh/malware_research/rust_remote_shellcode_injection
  - https://ajpc500.github.io/nim/Shellcode-Injection-using-Nim-and-Syscalls/
  - https://pyinstxtractor-web.netlify.app/
+ - https://pylingual.io/
