@@ -262,3 +262,5 @@
  - https://ajpc500.github.io/nim/Shellcode-Injection-using-Nim-and-Syscalls/
  - https://pyinstxtractor-web.netlify.app/
  - https://pylingual.io/
+ - https://malapi.io/
+ - https://redops.at/en/knowledge-base
