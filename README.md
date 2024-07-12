@@ -265,3 +265,4 @@
  - https://malapi.io/
  - https://redops.at/en/knowledge-base
  - https://www.ired.team/offensive-security/code-injection-process-injection/backdooring-portable-executables-pe-with-shellcode
+ - https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/
