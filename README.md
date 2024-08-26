@@ -266,3 +266,8 @@
  - https://redops.at/en/knowledge-base
  - https://www.ired.team/offensive-security/code-injection-process-injection/backdooring-portable-executables-pe-with-shellcode
  - https://research.checkpoint.com/2023/rust-binary-analysis-feature-by-feature/
+ - https://lots-project.com/
+ - https://zenalt.fr/
+ - https://docs.nats.io/
+ - https://isecjobs.com/
+ - https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/
