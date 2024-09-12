@@ -273,3 +273,7 @@
  - https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/
  - https://maester.dev/
  - https://dirkjanm.io/
+ - https://hackingthe.cloud/
+ - https://swisskyrepo.github.io/InternalAllTheThings/cloud/aws/AWS%20Pentest/
+ - https://swisskyrepo.github.io/InternalAllTheThings/cloud/azure/azure-access-and-token/
+ - https://cloud.hacktricks.xyz/welcome/readme
