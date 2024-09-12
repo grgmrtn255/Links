@@ -272,3 +272,4 @@
  - https://isecjobs.com/
  - https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/
  - https://maester.dev/
+ - https://dirkjanm.io/
