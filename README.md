@@ -276,6 +276,7 @@
  - https://hackingthe.cloud/
  - https://swisskyrepo.github.io/InternalAllTheThings/cloud/aws/AWS%20Pentest/
  - https://swisskyrepo.github.io/InternalAllTheThings/cloud/azure/azure-access-and-token/
+ - https://redcanary.com/threat-detection-report/techniques/mark-of-the-web-bypass/
  - https://cloud.hacktricks.xyz/welcome/readme
  - https://computernewb.com/isos/windows/
  - https://files.rg-adguard.net/files/d2aebbf5-32ca-c317-4652-7ef7cac3c6cf
