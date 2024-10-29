@@ -281,3 +281,4 @@
  - https://computernewb.com/isos/windows/
  - https://files.rg-adguard.net/files/d2aebbf5-32ca-c317-4652-7ef7cac3c6cf
  - https://massgrave.dev/genuine-installation-media
+ - https://www.edr-telemetry.com/windows.html
