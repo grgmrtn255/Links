@@ -282,3 +282,4 @@
  - https://files.rg-adguard.net/files/d2aebbf5-32ca-c317-4652-7ef7cac3c6cf
  - https://massgrave.dev/genuine-installation-media
  - https://www.edr-telemetry.com/windows.html
+ - https://support.microsoft.com/en-us/office/blocked-attachments-in-outlook-434752e1-02d3-4e90-9124-8b81e49a8519
