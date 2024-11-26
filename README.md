@@ -282,6 +282,7 @@
  - https://files.rg-adguard.net/files/d2aebbf5-32ca-c317-4652-7ef7cac3c6cf
  - https://massgrave.dev/genuine-installation-media
  - https://www.edr-telemetry.com/windows.html
+ - https://detect.fyi/edr-telemetry-project-a-comprehensive-comparison-d5ed1745384b (https://docs.google.com/spreadsheets/d/1ZMFrD6F6tvPtf_8McC-kWrNBBec_6Si3NW6AoWf3Kbg/edit?gid=1993314609#gid=1993314609)
  - https://support.microsoft.com/en-us/office/blocked-attachments-in-outlook-434752e1-02d3-4e90-9124-8b81e49a8519
  - https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/
  - https://hardwear.io/archives/
