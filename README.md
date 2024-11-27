@@ -287,3 +287,4 @@
  - https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/
  - https://hardwear.io/archives/
  - https://docs.velociraptor.app/
+ - https://www.sans.org/posters/
