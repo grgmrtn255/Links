@@ -293,3 +293,4 @@
  - https://canarytokens.org/nest/
  - https://zeltser.com/security-incident-questionnaire-cheat-sheet/
  - https://face.co/
+ - https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
