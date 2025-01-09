@@ -111,7 +111,7 @@
  - https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
  - https://0xrick.github.io/
  - https://www.exploit-db.com/
- - https://wikileaks.org/vault7/
+ - https://wikileaks.org/vault7/ (https://wikileaks.org/ciav7p1/cms/page_14587109.html)
  - https://unprotect.it/
  - https://otx.alienvault.com/
  - https://bazaar.abuse.ch/
