@@ -295,3 +295,4 @@
  - https://face.co/
  - https://blog.quarkslab.com/why-is-exposing-the-docker-socket-a-really-bad-idea.html
  - https://chocolatecoat4n6.com/
+ - https://www.gdatasoftware.com/blog/2021/09/an-overview-of-malware-hashing-algorithms
