@@ -298,3 +298,4 @@
  - https://www.gdatasoftware.com/blog/2021/09/an-overview-of-malware-hashing-algorithms
  - https://wirediver.com/tutorial-writing-a-pe-packer-intro/
  - https://github.com/frank2/packer-tutorial
+ - https://dbus.freedesktop.org/doc/dbus-specification.html
