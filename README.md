@@ -299,3 +299,4 @@
  - https://wirediver.com/tutorial-writing-a-pe-packer-intro/
  - https://github.com/frank2/packer-tutorial
  - https://dbus.freedesktop.org/doc/dbus-specification.html
+ - https://security-links.hdks.org/
