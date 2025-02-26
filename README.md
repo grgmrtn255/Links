@@ -301,3 +301,4 @@
  - https://dbus.freedesktop.org/doc/dbus-specification.html
  - https://security-links.hdks.org/
  - https://cloudbrothers.info/en/current-limits-defender-av-tamper-protection/
+ - https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
