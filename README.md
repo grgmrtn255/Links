@@ -302,3 +302,4 @@
  - https://security-links.hdks.org/
  - https://cloudbrothers.info/en/current-limits-defender-av-tamper-protection/
  - https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
+ - https://infosecwriteups.com/free-vps-for-ethical-hacking-and-bug-bounty-hunting-d9098c2fbe2a
