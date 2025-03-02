@@ -304,3 +304,4 @@
  - https://www.boiteaklou.fr/Abusing-Shared-Libraries.html
  - https://infosecwriteups.com/free-vps-for-ethical-hacking-and-bug-bounty-hunting-d9098c2fbe2a
  - https://shell.segfault.net/#/dashboard
+ - https://erpaciocco.github.io/2025/windows-ipc-in-depth-5/
