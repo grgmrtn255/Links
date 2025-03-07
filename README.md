@@ -307,3 +307,4 @@
  - https://erpaciocco.github.io/2025/windows-ipc-in-depth-5/
  - https://doc.fedora-fr.org/wiki/Obsol%C3%A8te_-_Parefeu_-_firewall_-_netfilter_-_iptables
  - https://connect.ed-diamond.com/MISC/misc-064/discussion-autour-de-netfilter
+ - https://krptyk.com/2023/09/20/dll-shellcode-loader-bypass-defender/
