@@ -309,3 +309,4 @@
  - https://connect.ed-diamond.com/MISC/misc-064/discussion-autour-de-netfilter
  - https://krptyk.com/2023/09/20/dll-shellcode-loader-bypass-defender/
  - https://www.akamai.com/blog/security-research/2025-february-abusing-vbs-enclaves-evasive-malware
+ - https://www.unicode.org/versions/Unicode15.0.0/
