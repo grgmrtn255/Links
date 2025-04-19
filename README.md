@@ -311,3 +311,4 @@
  - https://www.akamai.com/blog/security-research/2025-february-abusing-vbs-enclaves-evasive-malware
  - https://www.unicode.org/versions/Unicode15.0.0/
  - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+ - https://flatcap.github.io/linux-ntfs/ntfs/attributes/index.html
