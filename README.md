@@ -312,3 +312,4 @@
  - https://www.unicode.org/versions/Unicode15.0.0/
  - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
  - https://flatcap.github.io/linux-ntfs/ntfs/attributes/index.html
+ - https://medium.com/@mathias.fuchs/the-impact-of-microsofts-refs-on-dfir-cdb78f401bfd
