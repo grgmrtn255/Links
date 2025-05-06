@@ -313,3 +313,4 @@
  - https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
  - https://flatcap.github.io/linux-ntfs/ntfs/attributes/index.html
  - https://medium.com/@mathias.fuchs/the-impact-of-microsofts-refs-on-dfir-cdb78f401bfd (https://blog.bi0s.in/2024/03/12/Forensics/ReAL-File-System-bi0sCTF2024/)
+ - https://blog.lexfo.fr/the-business-of-forged-documents-investigation.html
