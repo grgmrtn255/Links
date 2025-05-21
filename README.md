@@ -315,3 +315,4 @@
  - https://medium.com/@mathias.fuchs/the-impact-of-microsofts-refs-on-dfir-cdb78f401bfd (https://blog.bi0s.in/2024/03/12/Forensics/ReAL-File-System-bi0sCTF2024/)
  - https://blog.lexfo.fr/the-business-of-forged-documents-investigation.html
  - https://www.theregister.com/2025/05/11/cpu_ransomware_rapid7
+ - https://notebooklm.google.com/
