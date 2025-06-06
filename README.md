@@ -316,3 +316,4 @@
  - https://blog.lexfo.fr/the-business-of-forged-documents-investigation.html
  - https://www.theregister.com/2025/05/11/cpu_ransomware_rapid7
  - https://notebooklm.google.com/
+ - https://fasterthanli.me/series/making-our-own-executable-packer/part-2
