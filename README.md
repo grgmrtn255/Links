@@ -317,3 +317,4 @@
  - https://www.theregister.com/2025/05/11/cpu_ransomware_rapid7
  - https://notebooklm.google.com/
  - https://fasterthanli.me/series/making-our-own-executable-packer/part-2
+ - https://projectdiscovery.io/blog/zimbra-remote-code-execution
