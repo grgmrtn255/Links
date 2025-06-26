@@ -318,3 +318,4 @@
  - https://notebooklm.google.com/
  - https://fasterthanli.me/series/making-our-own-executable-packer/part-2
  - https://projectdiscovery.io/blog/zimbra-remote-code-execution
+ - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/
