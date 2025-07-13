@@ -321,3 +321,4 @@
  - https://www.semperis.com/blog/new-attack-paths-as-requested-sts/
  - https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/
  - https://quickref.me/
+ - https://cht.sh/ https://cheat.sh/
