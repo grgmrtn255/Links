@@ -322,3 +322,4 @@
  - https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/
  - https://quickref.me/
  - https://cht.sh/ https://cheat.sh/
+ - https://www.pirates.re/conti-leak-part-i-make-your-own-locker
