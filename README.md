@@ -323,3 +323,4 @@
  - https://quickref.me/
  - https://cht.sh/ https://cheat.sh/
  - https://www.pirates.re/conti-leak-part-i-make-your-own-locker
+ - https://www.bugcrowd.com/blog/how-to-find-bugs-on-a-hardened-target-using-gadgets/
